@@ -1,33 +1,45 @@
-# 👩🏻‍💻 kaua-hiro
+# 👩🏻‍💻 **Kauã Hiro**
 
-**`FullStack Developer`**
+**FullStack Software Developer** | *Multiplatform Software Development Enthusiast*
 
-👋 Hello! My name is **Kauã**, I'm 20 years old and a technology enthusiast passionate about coding. I'm currently studying **Multiplatform Software Development** and continuously improving my skills as a FullStack developer.
+---
 
-📚 I regularly share my certificates, badges, and professional updates on my [LinkedIn](https://www.linkedin.com/in/kauamizumoto/).
+👋 Welcome! I’m **Kauã Mizumoto**, a motivated software engineer focused on delivering scalable and efficient solutions across multiple platforms.  
+At 20 years old, I combine a strong foundation in programming with continuous learning and a passion for innovation.
 
+Let’s build the future of technology together.
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/kauamizumoto/">
+<div align="left" style="font-family: Arial, sans-serif;">
+    <a href="https://www.linkedin.com/in/kauamizumoto/" style="text-decoration: none;">
         <img 
             alt="LinkedIn" 
             title="Visite meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-kauamizumoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-kauamizumoto-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A4D8F"
+            style="border-radius: 6px; box-shadow: 0 2px 5px rgba(37, 99, 235, 0.5);"
         />
     </a>
-</p>
-<p>
-    <a href="https://github.com/kaua-hiro">
+    <a href="https://www.infojobs.com.br/curriculum/kaua-mizumoto" style="margin-left: 12px; text-decoration: none;">
+        <img 
+            alt="InfoJobs" 
+            title="Meu InfoJobs" 
+            src="https://custom-icon-badges.demolab.com/badge/InfoJobs-kauamizumoto-0099FF?style=for-the-badge&logo=infojobs&logoColor=white&labelColor=0077CC"
+            style="border-radius: 6px; box-shadow: 0 2px 5px rgba(0, 153, 255, 0.5);"
+        />
+    </a>
+    <br/>
+    <a href="https://github.com/kaua-hiro" style="text-decoration: none;">
         <img 
             alt="GitHub" 
             title="Meu GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/GitHub-kaua--hiro-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
+            src="https://custom-icon-badges.demolab.com/badge/GitHub-kaua--hiro-24292E?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"
+            style="border-radius: 6px; box-shadow: 0 2px 5px rgba(36, 41, 46, 0.6); margin-top: 6px;"
         />
     </a>
-</p>
+</div>
 
 
-### 🤖 Languages ​​and Technologies
+
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -81,9 +93,28 @@
 <br/>
 <br/>
 
+### 🎓 Licenses & Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/C++-Essentials_1-blue?logo=cplusplus&logoColor=white" alt="C++ Essentials 1" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Prompt_Design-Vertex_AI-yellow?logo=googlecloud&logoColor=white" alt="Prompt Design in Vertex AI" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/C_Essentials_1-orange?logo=c&logoColor=white" alt="C Essentials 1" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/C_Essentials_2-red?logo=c&logoColor=white" alt="C Essentials 2" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Network_Defense-cisco?logo=cisco&logoColor=white" alt="Defesa de Rede" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Endpoint_Security-cisco?logo=cisco&logoColor=white" alt="Segurança do Endpoint" />
+</p>
+
+<p>
+
+ 📚 Explore my professional journey, certifications, and endorsements on my [**LinkedIn profile**](https://www.linkedin.com/in/kauamizumoto/).
+
+</p>
+
+
+
 ### 🚀 GitHub Insights
 
-> 💡 Always evolving: practicing, studying and contributing to real projects.
+> 💡 Sempre em evolução: praticando, estudando e contribuindo com projetos reais.
 
 <p align="center">
   <img 
