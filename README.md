@@ -63,7 +63,7 @@ Let’s build the future of technology together.
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 
@@ -153,20 +153,23 @@ Let’s build the future of technology together.
 ### 🎓 Licenses & Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/C++-Essentials_1-blue?logo=cplusplus&logoColor=white" alt="C++ Essentials 1" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Prompt_Design-Vertex_AI-yellow?logo=googlecloud&logoColor=white" alt="Prompt Design in Vertex AI" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/C_Essentials_1-orange?logo=c&logoColor=white" alt="C Essentials 1" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/C_Essentials_2-red?logo=c&logoColor=white" alt="C Essentials 2" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Network_Defense-cisco?logo=cisco&logoColor=white" alt="Defesa de Rede" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Endpoint_Security-cisco?logo=cisco&logoColor=white" alt="Segurança do Endpoint" />
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 8px;">
+  <img src="https://img.shields.io/badge/C++-Essentials_1-00599C?logo=cplusplus&logoColor=white" alt="Certificado C++ Essentials 1" />
+  <img src="https://img.shields.io/badge/C-Essentials_1-orange?logo=c&logoColor=white" alt="C Essentials 1" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/C-Essentials_2-red?logo=c&logoColor=white" alt="C Essentials 1" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Python-Cisco-3776AB?logo=python&logoColor=white" alt="Certificado Python Essentials 1" />
+  <img src="https://img.shields.io/badge/Network_Defense-Cisco-1BA0D7?logo=cisco&logoColor=white" alt="Certificado Network Defense da Cisco" />
+  <img src="https://img.shields.io/badge/Endpoint_Security-Cisco-1BA0D7?logo=cisco&logoColor=white" alt="Certificado Endpoint Security da Cisco" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Cisco-1BA0D7?logo=cisco&logoColor=white" alt="Certificado Cybersecurity da Cisco" />
+  <img src="https://img.shields.io/badge/Prompt_Design_in_Vertex_AI-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Certificado Prompt Design in Vertex AI do Google Cloud" />
+  <img src="https://img.shields.io/badge/Develop_GenAI_Apps-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Certificado Develop GenAI Apps with Gemini do Google Cloud" />
+  <img src="https://img.shields.io/badge/Inspect_Documents_with_Gemini-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Certificado Inspect Rich Documents with Gemini do Google Cloud" />
+</div>
 </p>
 
 <p>
-
- 📚 Explore my professional journey, certifications, and endorsements on my [**LinkedIn profile**](https://www.linkedin.com/in/kauamizumoto/).
-
+📚 Explore minha jornada profissional completa, certificações e recomendações no meu <a href="https://www.linkedin.com/in/kauamizumoto/"><strong>perfil do LinkedIn</strong></a>.
 </p>
-
 
 
 ### 🚀 GitHub Insights
