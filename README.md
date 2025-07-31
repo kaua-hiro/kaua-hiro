@@ -37,7 +37,7 @@ Let’s build the future of technology together.
     </a>
 </div>
 
-
+---
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -63,8 +63,9 @@ Let’s build the future of technology together.
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"  
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -75,12 +76,12 @@ Let’s build the future of technology together.
 /> 
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="GoogleCloud" 
+    title="GoogleCloud"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+          
 <img 
     align="left" 
     alt="Git" 
@@ -89,6 +90,15 @@ Let’s build the future of technology together.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+
 <img 
     align="left" 
     alt="Python" 
@@ -97,6 +107,44 @@ Let’s build the future of technology together.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
+/>
+
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+          
+
 
 <br/>
 <br/>
