@@ -5,7 +5,7 @@
 ---
 
 Welcome! I’m **Kauã Mizumoto**, a motivated software engineer focused on delivering scalable and efficient solutions across multiple platforms.  
-At 20 years old, I combine a strong foundation in programming with continuous learning and a passion for innovation.
+At 21 years old, I combine a strong foundation in programming with continuous learning and a passion for innovation.
 
 Let’s build the future of technology together.
 
