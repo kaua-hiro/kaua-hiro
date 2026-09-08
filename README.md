@@ -1,20 +1,11 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
+<!-- hero: monochrome ASCII portrait, types in like a terminal.
+     regenerate: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py -->
 
 <h3><code>kaua@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" /></td>
-<td valign="top"><img src="./kaua-wordmark.svg" width="490" alt="KAUA — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" />
 
 <br>
 <br>
@@ -169,8 +160,8 @@ const kaua: Developer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaua-hiro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&title_color=2563EB&icon_color=2563EB&text_color=c9d1d9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-hiro&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=c9d1d9&langs_count=8" alt="top langs" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua-hiro&theme=github_dark" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua-hiro&theme=github_dark" alt="top langs" />
 
 <br/>
 
