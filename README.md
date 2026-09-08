@@ -1,19 +1,43 @@
-<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1b1f23,60:1A4D8F,100:2563EB&height=230&section=header&text=Kau%C3%A3%20Hiro&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=FullStack%20Software%20Developer&descAlignY=58&descSize=20&descColor=8FB6EE" width="100%" />
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<br/><br/>
+<h3><code>kaua@github ~ $ whoami</code></h3>
 
-<a href="https://github.com/kaua-hiro">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=720&height=48&lines=Multiplatform+Software+Development+Enthusiast;TypeScript+%7C+JavaScript+%7C+Python;Sistemas%2C+integra%C3%A7%C3%B5es+de+APIs+e+automa%C3%A7%C3%A3o;Suporte+de+TI+%7C+Desenvolvimento+%7C+Compliance" alt="typing" />
-</a>
+<table>
+<tr>
+<td valign="top"><img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" /></td>
+<td valign="top"><img src="./kaua-wordmark.svg" width="490" alt="KAUA — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
-<br/>
+<br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=kaua-hiro&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=2563EB&style=flat-square" alt="views" />
-<img src="https://img.shields.io/github/followers/kaua-hiro?label=Seguidores&style=flat-square&color=2563EB&labelColor=1b1f23" alt="followers" />
-<img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-3fb950?style=flat-square&labelColor=1b1f23" alt="status" />
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>kaua@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Kauã's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>kaua@github ~ $ ./links.sh</code></h3>
+
+<p><b>FullStack Software Developer · Sistemas, APIs & Automação</b></p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kauamizumoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauamizumoto/)
+[![GitHub](https://img.shields.io/badge/GitHub-kaua--hiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaua-hiro)
+[![InfoJobs](https://img.shields.io/badge/InfoJobs-kauamizumoto-0099FF?style=for-the-badge&logo=infojobs&logoColor=white)](https://www.infojobs.com.br/curriculum/kaua-mizumoto)
+
+<br>
 
 </div>
 
@@ -163,5 +187,6 @@ const kaua: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaua-hiro&theme=react-dark&bg_color=0d1117&color=8FB6EE&line=2563EB&point=ffffff&area=true&hide_border=true" width="98%" alt="activity graph" />
 </div>
 
-<!-- ===== FOOTER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1b1f23,100:0d1117&height=120&section=footer" width="100%" />
+---
+
+<div align="center"><sub>kaua-hiro</sub></div>
