@@ -1,11 +1,19 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait, types in like a terminal.
-     regenerate: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py -->
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock
+     how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
 <h3><code>kaua-hiro@github ~ $ whoami</code></h3>
 
-<img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" />
+<table>
+<tr>
+<td valign="top"><img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" /></td>
+<td valign="top"><img src="./kaua-wordmark.svg" width="490" alt="KAUA — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
 <br>
 <br>
