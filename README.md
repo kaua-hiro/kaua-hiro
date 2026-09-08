@@ -1,21 +1,21 @@
+<!-- hero: HUD-style terminal panel (system-info card + wireframe map) with a
+     jet flying over the real contribution grid below it, adapted from
+     github.com/Sushmitadasari/Sushmitadasari.
+     jet heatmap: node scripts/generate-jet-heatmap.mjs (regenerated daily by
+     .github/workflows/update-jet-heatmap.yml) -->
+
+<a href="https://github.com/kaua-hiro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <img alt="kaua-hiro GitHub profile" src="./light.svg">
+  </picture>
+  <p align="center">
+    <img src="./dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
+  </p>
+</a>
+
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
-
-<h3><code>kaua-hiro@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./kaua-ascii.svg" width="370" alt="Kauã Hiro Mizumoto — ASCII portrait" /></td>
-<td valign="top"><img src="./kaua-wordmark.svg" width="490" alt="KAUA — 3D ASCII wordmark" /></td>
-</tr>
-</table>
-
-<br>
 <br>
 
 <!-- animated contribution graph: real data, boxes reveal cell by cell
