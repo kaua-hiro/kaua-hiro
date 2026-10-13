@@ -22,6 +22,7 @@
 
 <p><b>FullStack Software Developer · Sistemas, APIs & Automação</b></p>
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-kaua--hiro.github.io-F5C518?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kaua-hiro.github.io/portifolio-hiro/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kauamizumoto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauamizumoto/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaua--hiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaua-hiro)
 [![InfoJobs](https://img.shields.io/badge/InfoJobs-kauamizumoto-0099FF?style=for-the-badge&logo=infojobs&logoColor=white)](https://www.infojobs.com.br/curriculum/kaua-mizumoto)
