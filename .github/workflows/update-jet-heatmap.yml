@@ -1,13 +1,12 @@
 name: Update jet heatmap SVG
 
-# Refreshes the jet-over-contribution-grid SVG daily from real contribution data.
+# Regenerates the heatmap weekly and publishes it to the `output` branch
+# (force-pushed, single commit) so `main` history stays clean.
 
 on:
   schedule:
-    - cron: "30 5 * * *"
+    - cron: "0 6 * * 1"
   workflow_dispatch: {}
-  push:
-    branches: [main]
 
 permissions:
   contents: write
@@ -16,11 +15,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 20
 
@@ -31,8 +28,13 @@ jobs:
           OUTPUT_PATH: dist/github-jet.svg
         run: node scripts/generate-jet-heatmap.mjs
 
-      - name: Commit and push if changed
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          commit_message: "chore: update jet heatmap SVG [skip ci]"
-          file_pattern: dist/github-jet.svg
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          jekyll: false
+          commit_message: "chore: publish heatmap"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

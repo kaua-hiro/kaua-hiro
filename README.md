@@ -1,7 +1,7 @@
 <!-- hero: HUD-style terminal panel (system-info card + wireframe map) with a
      jet flying over the real contribution grid below it, adapted from
      github.com/Sushmitadasari/Sushmitadasari.
-     jet heatmap: node scripts/generate-jet-heatmap.mjs (regenerated daily by
+     jet heatmap: node scripts/generate-jet-heatmap.mjs (regenerated weekly by
      .github/workflows/update-jet-heatmap.yml) -->
 
 <a href="https://github.com/kaua-hiro">
@@ -10,7 +10,7 @@
     <img alt="kaua-hiro GitHub profile" src="./light.svg">
   </picture>
   <p align="center">
-    <img src="./dist/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
+    <img src="https://raw.githubusercontent.com/kaua-hiro/kaua-hiro/output/github-jet.svg" alt="GitHub Jet Heatmap" width="100%" />
   </p>
 </a>
 
@@ -39,7 +39,7 @@
 ```typescript
 const kaua: Developer = {
   nome:     "Kauã Hiro Mizumoto",
-  idade:    21,
+  idade:    22,
   cargo:    "FullStack Software Developer",
   formacao: "Desenvolvimento de Software Multiplataforma (Fatec)",
   foco:     "Sistemas, Integrações de APIs, Automações e Inteligência Artificial",
@@ -62,6 +62,20 @@ const kaua: Developer = {
 - 🤖 **Conciliação de dados e automação** — robôs para cruzamento automatizado de dados de ERPs (Linx x Qive) e distribuição de relatórios
 - 🧠 **Inteligência Artificial** — assistentes corporativos com RAG consumindo documentação em PDF
 - 🌐 **SaaS Full-Stack** — plataformas com Next.js, Prisma e PostgreSQL
+
+<br/>
+
+<!-- ===== PROJETOS ===== -->
+## 🚀 Projetos em destaque
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [nfe-automation-python-sql](https://github.com/kaua-hiro/nfe-automation-python-sql) | Robô fiscal: manifesta NF-e via API Qive com carga incremental e logs auditáveis | Python · SQL Server |
+| [painel-economico-chat](https://github.com/kaua-hiro/painel-economico-chat) | Indicadores do Banco Central + chat em tempo real com assistente | Next.js · Socket.IO · Prisma · TS |
+| [smart-bookmark-api](https://github.com/kaua-hiro/smart-bookmark-api) | API REST que indexa links com scraping assíncrono | FastAPI · SQLModel |
+| [flow-reminder](https://github.com/kaua-hiro/flow-reminder) | SaaS white label de lembretes para agendamentos | Next.js · Prisma · Supabase |
+| [onboardflow-api](https://github.com/kaua-hiro/onboardflow-api) | Onboarding de TI com checklists automáticos | FastAPI · Docker |
+| [portifolio-hiro](https://kaua-hiro.github.io/portifolio-hiro/) | Portfólio publicado | JavaScript |
 
 <br/>
 
@@ -162,9 +176,6 @@ const kaua: Developer = {
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaua-hiro&theme=github_dark" alt="stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaua-hiro&theme=github_dark" alt="top langs" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=kaua-hiro&theme=transparent&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
 
 </div>
 
